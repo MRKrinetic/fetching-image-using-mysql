@@ -1,3 +1,3 @@
-add photo folder to htdocs 
-create database using database.sql query
-fetching.png and uploading,png are examples
+add photo folder to htdocs <br>
+create database using database.sql query<br>
+fetching.png and uploading,png are examples<br>
