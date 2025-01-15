@@ -1,5 +1,5 @@
 <?php
-// Database connection
+
 $host = "localhost";
 $user = "photo";
 $password = "1234";
